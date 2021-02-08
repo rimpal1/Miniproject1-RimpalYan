@@ -1,4 +1,4 @@
-# Miniproject1-RimpalYan
+# Miniproject01-RimpalYan
 
 ## **Introduction**
 
